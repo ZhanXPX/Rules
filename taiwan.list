@@ -9,7 +9,12 @@ DOMAIN-SUFFIX,news.readmoo.com
 DOMAIN-SUFFIX,store.readmoo.com
 DOMAIN-SUFFIX,ap.readmoo.com
 DOMAIN-SUFFIX,new-read.readmoo.com
-share.readmoo.com
-moopub.readmoo.com
-write.readmoo.com
+DOMAIN-SUFFIX,share.readmoo.com
+DOMAIN-SUFFIX,moopub.readmoo.com
+DOMAIN-SUFFIX,write.readmoo.com
 DOMAIN-KEYWORD,readmoo
+# rakuten
+DOMAIN-SUFFIX,www.rakuten.com.tw
+DOMIAN-SUFFIX,login.account.rakuten.com
+DOMAIN-KEYWORD,rakuten
+
