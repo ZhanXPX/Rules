@@ -1,3 +1,15 @@
-# 特殊霓虹代理
-# DOMAIN-KEYWORD: 22
-# TOTAL: 22
+# 特殊台湾代理
+# DOMAIN-KEYWORD: 1
+# TOTAL: 11
+# readmoo
+DOMAIN-SUFFIX,readmoo.com
+DOMAIN-SUFFIX,read.readmoo.com
+DOMAIN-SUFFIX,member.readmoo.com
+DOMAIN-SUFFIX,news.readmoo.com
+DOMAIN-SUFFIX,store.readmoo.com
+DOMAIN-SUFFIX,ap.readmoo.com
+DOMAIN-SUFFIX,new-read.readmoo.com
+share.readmoo.com
+moopub.readmoo.com
+write.readmoo.com
+DOMAIN-KEYWORD,readmoo
