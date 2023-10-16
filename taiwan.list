@@ -1,6 +1,6 @@
 # 特殊台湾代理
-# DOMAIN-KEYWORD: 1
-# TOTAL: 11
+# DOMAIN-KEYWORD: 2
+# TOTAL: 14
 # readmoo
 DOMAIN-SUFFIX,readmoo.com
 DOMAIN-SUFFIX,read.readmoo.com
@@ -14,7 +14,12 @@ DOMAIN-SUFFIX,moopub.readmoo.com
 DOMAIN-SUFFIX,write.readmoo.com
 DOMAIN-KEYWORD,readmoo
 # rakuten
-DOMAIN-SUFFIX,www.rakuten.com.tw
+DOMAIN-SUFFIX,rakuten.com.tw
 DOMIAN-SUFFIX,login.account.rakuten.com
 DOMAIN-KEYWORD,rakuten
-
+# kobo
+DOMAIN-SUFFIX,kobo.com
+DOMAIN-SUFFIX,authorize.kobo.com
+DOMAIN-SUFFIX,zh.kobo.com
+DOMAIN-SUFFIX,gl.kobobooks.com
+DOMAIN-KEYWORD,kobo
