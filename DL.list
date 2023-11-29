@@ -1,10 +1,12 @@
 # DOMAIN-KEYWORD: 1
-# TOTAL: 6
+# TOTAL: 8
 # top-domain
 DOMAIN-SUFFIX,note.bhwgg.top
 DOMAIN-SUFFIX,wbo.bhwgg.top
 DOMAIN-SUFFIX,memos.bhwgg.top
 DOMAIN-SUFFIX,file.bhwgg.top
 DOMAIN-SUFFIX,bb.bhwgg.top
+DOMAIN-SUFFIX,images.bhwgg.top
+DOMAIN-SUFFIX,npm-tencent03.bhwgg.top
 DOMAIN-SUFFIX,bhwgg.top
 DOMAIN-KEYWORD,bhwgg.top
